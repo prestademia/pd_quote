@@ -1,0 +1,31 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{pd_quote}prestashop>ajax_319ed0dba4882bdc4a26a2ab4ba495b4'] = 'Solicitud de presupuesto';
+$_MODULE['<{pd_quote}prestashop>pd_quote_ffaf2733408ddd2a6fc20e0eb48a55c1'] = 'Solicitar presupuesto';
+$_MODULE['<{pd_quote}prestashop>pd_quote_d38a365570e8aaf3b3d3159db495c380'] = 'Módulo para solicitar presupuesto en cada producto de la tienda mediante un formulario modal.';
+$_MODULE['<{pd_quote}prestashop>pd_quote_a7cc289efab9e5c372422d3fa0a98904'] = 'Se guardaron los cambios.';
+$_MODULE['<{pd_quote}prestashop>pd_quote_00dc89c631d51645011c7f637aa542d8'] = 'Email es requerido';
+$_MODULE['<{pd_quote}prestashop>pd_quote_ee35088c36b91b0a8e00e9e89cce33ad'] = 'Error de formato en el email';
+$_MODULE['<{pd_quote}prestashop>pd_quote_3b50925cabec3941c67962e4c4201fce'] = 'Error de formato en el color de texto';
+$_MODULE['<{pd_quote}prestashop>pd_quote_14949374771dc24156330dbda2863486'] = 'Error de formato en el  color de fondo';
+$_MODULE['<{pd_quote}prestashop>pd_quote_f4f70727dc34561dfde1a3c529b6205c'] = 'Configuracion';
+$_MODULE['<{pd_quote}prestashop>pd_quote_6a1e265f92087bb6dd18194833fe946b'] = 'Email receptor : ';
+$_MODULE['<{pd_quote}prestashop>pd_quote_668d801e04397f5b4b7fefa65001819f'] = 'Tamaño del botón : ';
+$_MODULE['<{pd_quote}prestashop>pd_quote_8a7677989d60b079f88131561196c7fd'] = 'Color del botón : ';
+$_MODULE['<{pd_quote}prestashop>pd_quote_62c480c7ec8cad00b6c0c951284f3adb'] = 'Color del fondo del botón : ';
+$_MODULE['<{pd_quote}prestashop>pd_quote_07142d6c7278bd9503c78e659269e1c0'] = 'Color sombreado del fondo del botón : ';
+$_MODULE['<{pd_quote}prestashop>pd_quote_c9cc8cce247e49bae79f15173ce97354'] = 'Guardar';
+$_MODULE['<{pd_quote}prestashop>configure_ea2c192138450916d2472b7f65d8752b'] = 'Módulos profesionales - Prestademia';
+$_MODULE['<{pd_quote}prestashop>configure_4ac5b9aa25143a6064542cc68c26e304'] = 'Descubre las novedades en';
+$_MODULE['<{pd_quote}prestashop>button-quote_ffaf2733408ddd2a6fc20e0eb48a55c1'] = 'Solicitar presupuesto';
+$_MODULE['<{pd_quote}prestashop>modal-quote_ffaf2733408ddd2a6fc20e0eb48a55c1'] = 'Solicitar presupuesto';
+$_MODULE['<{pd_quote}prestashop>modal-quote_8739a9a8149e9361fa50b3d2e79634ef'] = 'Gracias. Nos comunicaremos pronto.';
+$_MODULE['<{pd_quote}prestashop>modal-quote_d554d9bf0cd8f79c215600eeb77825e8'] = 'Su email';
+$_MODULE['<{pd_quote}prestashop>modal-quote_3260d29dc6595e71cd4e04afa556f832'] = 'Su celular';
+$_MODULE['<{pd_quote}prestashop>modal-quote_cfe1b4b75fb8dc152b124f9305835a11'] = 'Su mensaje';
+$_MODULE['<{pd_quote}prestashop>modal-quote_ea4788705e6873b424c65e91c2846b19'] = 'Cancelar';
+$_MODULE['<{pd_quote}prestashop>modal-quote_15c2d85f1fae22a3c3a0594510a1f611'] = 'Solicitar';
+$_MODULE['<{pd_quote}prestashop>modal-quote_e4b0c2b6d59cb4cf3e169a9886008087'] = 'Enviando';
+$_MODULE['<{pd_quote}prestashop>modal-quote_d3d2e617335f08df83599665eef8a418'] = 'Cerrar';

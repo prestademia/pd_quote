@@ -1,0 +1,5 @@
+Email: {email}
+Phone number: {phone}
+Message: {description}
+Product: {product_name}
+Product link: {product_link}
